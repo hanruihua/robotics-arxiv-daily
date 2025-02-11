@@ -10,6 +10,7 @@
     <li><a href=#keypoint-detection>Keypoint Detection</a></li>
     <li><a href=#image-matching>Image Matching</a></li>
     <li><a href=#nerf>NeRF</a></li>
+    <li><a href=#navigation>Navigation</a></li>
   </ol>
 </details>
 
@@ -4224,6 +4225,23 @@
 |**2022-08-01**|**End-to-end View Synthesis via NeRF Attention**|Zelin Zhao et.al.|[2207.14741](http://arxiv.org/abs/2207.14741)|null|
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
+
+<p align=right>(<a href=#updated-on-20250211>back to top</a>)</p>
+
+## Navigation
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-02-10**|**Towards Internet-Scale Training For Agents**|Brandon Trabucco et.al.|[2502.06776](http://arxiv.org/abs/2502.06776)|null|
+|**2025-02-10**|**AgilePilot: DRL-Based Drone Agent for Real-Time Motion Planning in Dynamic Environments by Leveraging Object Detection**|Roohan Ahmed Khan et.al.|[2502.06725](http://arxiv.org/abs/2502.06725)|null|
+|**2025-02-10**|**HetSwarm: Cooperative Navigation of Heterogeneous Swarm in Dynamic and Dense Environments through Impedance-based Guidance**|Malaika Zafar et.al.|[2502.06722](http://arxiv.org/abs/2502.06722)|null|
+|**2025-02-10**|**A Review and Collection of Metrics and Benchmarks for Quantum Computers: definitions, methodologies and software**|Deep Lall et.al.|[2502.06717](http://arxiv.org/abs/2502.06717)|null|
+|**2025-02-10**|**Social Media Isn't Just Instagram: A Youth-Envisioned Platform for Meaningful Social Connections**|JaeWon Kim et.al.|[2502.06696](http://arxiv.org/abs/2502.06696)|null|
+|**2025-02-10**|**RAILS: Risk-Aware Iterated Local Search for Joint SLA Decomposition and Service Provider Management in Multi-Domain Networks**|Cyril Shih-Huan Hsu et.al.|[2502.06674](http://arxiv.org/abs/2502.06674)|null|
+|**2025-02-10**|**GuideLLM: Exploring LLM-Guided Conversation with Applications in Autobiography Interviewing**|Jinhao Duan et.al.|[2502.06494](http://arxiv.org/abs/2502.06494)|null|
+|**2025-02-10**|**SIGMA: Sheaf-Informed Geometric Multi-Agent Pathfinding**|Shuhao Liao et.al.|[2502.06440](http://arxiv.org/abs/2502.06440)|null|
+|**2025-02-10**|**Microcanonical Langevin Ensembles: Advancing the Sampling of Bayesian Neural Networks**|Emanuel Sommer et.al.|[2502.06335](http://arxiv.org/abs/2502.06335)|null|
+|**2025-02-10**|**Data-aware Dynamic Execution of Irregular Workloads on Heterogeneous Systems**|Zhenyu Bai et.al.|[2502.06304](http://arxiv.org/abs/2502.06304)|null|
 
 <p align=right>(<a href=#updated-on-20250211>back to top</a>)</p>
 
